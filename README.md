@@ -9,6 +9,6 @@ If you want to clone this project just Follow the steps:
     -> set the directory to the current folder 
     -> nodemon backend.js
     -> then open localhost : 3000
-Everything is set to go !.
+Everything is set to go !
 
 Any changes to be suggested are always appreciated. 
