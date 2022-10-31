@@ -42,7 +42,7 @@ app.get('/contact',function(req,res){
 
 
 app.get('/about',function(req,res){
-    res.sendFile(__dirname+'/aboutus.html')
+    res.sendFile(__dirname+'/about.html')
 })
 
 /* ------------to handle post request from contact page------------------
